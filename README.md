@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PyTorch**
 
-- 👨‍💻 All of my stuff is available at [asmit.carrd.co](asmit.carrd.co)
+- 👨‍💻 All of my stuff is available at [asmit.carrd.co](https://asmit.carrd.co/)
 
 - 📫 How to reach me **asmittbhardwaj@gmail.com**
 
