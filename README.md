@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **asmittbhardwaj@gmail.com**
 
+- 🐤 **Software developer by day, gamer also by day. At night, I sleep.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/asmit404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmit404" height="30" width="40" /></a>
