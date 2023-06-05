@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmit404&label=Profile%20views&color=0e75b6&style=flat" alt="asmit404" /> </p>
 
-- 🔭 I’m currently working on **Stock Portfolio Tracker**
+- 🔭 I’m currently working on [WaifuLabs](https://waifulabs.com)
 
 - 🌱 I’m currently learning **PyTorch**
 
