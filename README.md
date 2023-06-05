@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmit404&label=Profile%20views&color=0e75b6&style=flat" alt="asmit404" /> </p>
 
-- 🔭 I’m currently working on [WaifuLabs](https://waifulabs.com)
+- 🔭 I’m currently working on **AI Art Generators**
 
-- 🌱 I’m currently learning **PyTorch**
+- 🌱 I’m currently learning **Stable Diffusion**
 
 - 👨‍💻 All of my stuff is available at [asmit.carrd.co](https://asmit.carrd.co/)
 
