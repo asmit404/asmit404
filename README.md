@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmit404&label=Profile%20views&color=0e75b6&style=flat" alt="asmit404" /> </p>
 
-- 🔭 I’m currently working on : **AI Art Generators**
+- 🔭 I’m currently working on : **Image Upscaling**
 
-- 🌱 I’m currently learning : **Stable Diffusion**
+- 🌱 I’m currently learning : **PyTorch**
 
 - 👨‍💻 All of my stuff is available at : [asmit.carrd.co](https://asmit.carrd.co/)
 
-- 📫 Reach me at : **asmittbhardwaj@gmail.com**
+- 📫 Reach me at : **asmittbhardwaj@gmail.com**(mailto:asmittbhardwaj@gmail.com)
 
 - 🐤 **Software developer by day, gamer also by day. At night, I sleep.**
 
