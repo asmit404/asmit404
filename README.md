@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my stuff is available at : [asmit.carrd.co](https://asmit.carrd.co/)
 
-- 📫 Reach me at : **asmittbhardwaj@gmail.com**(mailto:asmittbhardwaj@gmail.com)
+- 📫 Reach me at : **asmittbhardwaj@gmail.com**
 
 - 🐤 **Software developer by day, gamer also by day. At night, I sleep.**
 
