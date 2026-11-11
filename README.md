@@ -26,7 +26,7 @@
   <a href="https://linkedin.com/in/asmit404" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="Ko-fi.com/asmit404" target="_blank">
+  <a href="https://Ko-fi.com/asmit404" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/asmit404" target="_blank">
