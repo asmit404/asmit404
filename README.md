@@ -1,32 +1,40 @@
-<h1 align="center">Hi 👋, I'm Ash </h1>
-<h2 align="center">A Full Stack Developer highly skilled in Python and C# </h2>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=asmit404&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="asmit404" /> </p>
+<h1 data-importer="text" align="center">Hey! 👋 I'm Asmit</h1>
 
-<h3 align="left"> About Me: </h3>
+###
 
-- 🔭 I’m currently working on **Image Upscaling**
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="60" alt="matlab logo"  />
+</div>
 
-- 🌱 I’m currently learning **PyTorch**
+###
 
-- 👨‍💻 All of my stuff is available at [asmit404.com](https://asmit404.com)
+<p data-importer="text" align="center">i write code sometimes, and sometimes it works</p>
 
-- 📫 Reach me at **asmittbhardwaj@gmail.com**
+###
 
-- 🐤 **Software developer by day, gamer also by day. At night, I sleep.**
-
-- 💰 **I don't have a lot of projects here, as I mostly like to write code that makes money.**
-
-<h3 align="left"> My Stuff: </h3>
-<p align="left">
-<a href="https://linkedin.com/in/asmit404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmit404" height="40" width="50" /></a>
-<a href="https://www.hackerrank.com/asmit404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asmit404" height="40" width="50" /></a>
-<a href="https://www.leetcode.com/asmit404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asmit404" height="40" width="50" /></a>
-<a href="https://auth.geeksforgeeks.org/user/asmit404/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="asmit404/profile" height="40" width="50" /></a>
-</p>
-
-<h3 align="left"> Languages and Tools: </h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,bash,cs,cpp,docker,dotnet,git,go,js,java,lua,md,mongodb,mysql,nodejs,py,rust,tensorflow,ts,vscode&perline=10" />
+<div data-importer="socials" align="center">
+  <a href="https://linkedin.com/in/asmit404" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-</p>
+  <a href="Ko-fi.com/asmit404" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/asmit404" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
+  <a href="mailto:asmittbhardwaj@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
